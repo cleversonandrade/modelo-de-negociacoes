@@ -1,6 +1,6 @@
 # modelo-de-negociacoes
 
-<h1>Para rodar o projetp em sua máquina siga os passoa abaixo:</h1>
+<h1>Para rodar o projetp em sua máquina siga os passos abaixo:</h1>
 <li>Clone o projeto https://github.com/cleversonandrade/modelo-de-negociacoes.git</li>
 <li>Depois de aberto em seu editor de código abra um termial.</li>
 <li>Digite o comando npm run start.</li>
